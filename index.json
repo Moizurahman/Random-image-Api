@@ -1,0 +1,219 @@
+[
+{
+"image_id" : 101,
+"image_category"  :"bikes",
+"image_url" :"https://cdn.pixabay.com/photo/2020/07/14/09/10/motorcycle-5403549_1280.jpg",
+"image_description" : "Road Bike: Lightweight frame designed for speed on paved roads."
+
+},
+
+{
+    "image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"https://cdn.pixabay.com/photo/2017/07/27/21/10/motorcycle-2546770_1280.jpg",
+    "image_description" : "Mountain Bike: Built for off-road trails with sturdy tires and suspension."
+    
+    },
+
+   {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"https://cdn.pixabay.com/photo/2017/07/27/21/10/motorcycle-2546770_1280.jpg",
+    "image_description" : "Hybrid Bike: Combines features of road and mountain bikes for versatile use.."
+    
+    },
+ 
+
+    {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"Skiing requires balance and precision to glide down slopes while avoiding obstacles at high speeds.",
+    "image_description" : "Skateboarding showcases tricks, balance, and creativity using a board on streets or skate parks."
+    
+    },
+
+    {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"https://images.unsplash.com/photo-1535131749006-b7f58c99034b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_description" : "Folding Bike: Compact design allows easy storage and portability."
+    
+    },
+
+    {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"https://cdn.pixabay.com/photo/2021/05/09/19/22/honda-6241849_960_720.jpg",
+    "image_description" : "Cruiser Bike: Comfortable ride with wide tires and upright handlebars."
+    
+    },
+
+
+    {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_description" : "A programmer typing on a laptop surrounded by coffee mugs and sticky notes."
+    
+    },
+
+    {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"https://cdn.pixabay.com/photo/2020/02/07/07/50/motorcycle-4826464_1280.jpg",
+    "image_description" : "Electric Bike (E-bike): Features a motor to assist with pedaling, reducing effort."
+    
+    },
+
+
+    {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"https://cdn.pixabay.com/photo/2021/01/22/16/51/honda-chopper-5940580_1280.jpg",
+    "image_description" : "Gravel Bike: Designed for mixed terrains, offering stability and comfort."
+    
+    },
+
+    {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"1518770660439https://cdn.pixabay.com/photo/2022/09/01/12/49/motorcycle-7425471_1280.jpg",
+    "image_description" : "Recumbent Bike: Rider sits in a laid-back position, distributing weight evenly."
+    
+    },
+
+    {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"https://cdn.pixabay.com/photo/2018/10/23/20/39/engine-3768907_1280.jpg",
+    "image_description" : "Cruiser Motorcycle: Low seat height and long wheelbase for relaxed cruising."
+    
+    },
+
+    {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"https://cdn.pixabay.com/photo/2018/10/23/20/39/engine-3768907_1280.jpg",
+    "image_description" : "Badminton is a racket sport demanding agility, quick reflexes, and shuttle control during rallies."
+    
+    },
+
+
+    {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"https://cdn.pixabay.com/photo/2018/10/23/20/39/engine-3768903_1280.jpg",
+    "image_description" : "Designed for two riders; offers shared cycling experience."
+    
+    },
+
+
+    {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"https://cdn.pixabay.com/photo/2016/10/11/14/46/motorcycle-1731774_1280.jpg",
+    "image_description" : "Wide tires for stability on snow, sand, and rough terrains.."
+    
+    },
+
+
+    {"image_id" : 102,
+    "image_category"  :"bikes",
+    "image_url" :"https://cdn.pixabay.com/photo/2016/10/11/14/46/motorcycle-1731774_1280.jpg",
+    "image_description" : "Wide tires for stability on snow, sand, and rough terrains.."
+    
+    },
+    
+    {
+        "image_id" : 101,
+        "image_category"  :"bikes",
+        "image_url" :"https://cdn.pixabay.com/photo/2020/07/14/09/10/motorcycle-5403549_1280.jpg",
+        "image_description" : "Road Bike: Lightweight frame designed for speed on paved roads."
+        
+        },
+        
+        {
+            "image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"https://cdn.pixabay.com/photo/2017/07/27/21/10/motorcycle-2546770_1280.jpg",
+            "image_description" : "Mountain Bike: Built for off-road trails with sturdy tires and suspension."
+            
+            },
+        
+           {"image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"https://cdn.pixabay.com/photo/2017/07/27/21/10/motorcycle-2546770_1280.jpg",
+            "image_description" : "Hybrid Bike: Combines features of road and mountain bikes for versatile use.."
+            
+            },
+         
+        
+            {"image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"Skiing requires balance and precision to glide down slopes while avoiding obstacles at high speeds.",
+            "image_description" : "Skateboarding showcases tricks, balance, and creativity using a board on streets or skate parks."
+            
+            },
+        
+            {"image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"https://images.unsplash.com/photo-1535131749006-b7f58c99034b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "image_description" : "Folding Bike: Compact design allows easy storage and portability."
+            
+            },
+        
+            {"image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"https://cdn.pixabay.com/photo/2021/05/09/19/22/honda-6241849_960_720.jpg",
+            "image_description" : "Cruiser Bike: Comfortable ride with wide tires and upright handlebars."
+            
+            },
+        
+        
+            {"image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "image_description" : "A programmer typing on a laptop surrounded by coffee mugs and sticky notes."
+            
+            },
+        
+            {"image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"https://cdn.pixabay.com/photo/2020/02/07/07/50/motorcycle-4826464_1280.jpg",
+            "image_description" : "Electric Bike (E-bike): Features a motor to assist with pedaling, reducing effort."
+            
+            },
+        
+        
+            {"image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"https://cdn.pixabay.com/photo/2021/01/22/16/51/honda-chopper-5940580_1280.jpg",
+            "image_description" : "Gravel Bike: Designed for mixed terrains, offering stability and comfort."
+            
+            },
+        
+            {"image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"1518770660439https://cdn.pixabay.com/photo/2022/09/01/12/49/motorcycle-7425471_1280.jpg",
+            "image_description" : "Recumbent Bike: Rider sits in a laid-back position, distributing weight evenly."
+            
+            },
+
+        
+            {"image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"https://cdn.pixabay.com/photo/2018/10/10/18/35/honda-3738010_1280.jpg",
+            "image_description" : "Two-rider bike designed for off-road trails and rugged terrains."
+            
+            },    
+
+            {"image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"https://cdn.pixabay.com/photo/2016/09/12/21/19/maquez-1665779_1280.jpg",
+            "image_description" : "Built for long-distance touring and mixed-terrain exploration."
+            
+            }, 
+
+            {"image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"https://cdn.pixabay.com/photo/2016/09/12/21/19/maquez-1665779_1280.jpg",
+            "image_description" : "Specialized bike for competitive track racing; lightweight and aerodynamic."
+            
+            }, 
+
+            {"image_id" : 102,
+            "image_category"  :"bikes",
+            "image_url" :"Designed for performing tricks and stunts in skate parks.5",
+            "image_description" : "Designed for performing tricks and stunts in skate parks."
+            
+            }, 
+
+]
